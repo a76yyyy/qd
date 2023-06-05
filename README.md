@@ -22,6 +22,7 @@ QD —— 一个<b>HTTP请求定时任务自动执行框架</b> base on HAR Edit
 [![docker image size][docker-image-size-image]][docker-image-size-url]
 ![repo size][repo-size-image]
 ![python version][python-version-image]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fa76yyyy%2Fqd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fa76yyyy%2Fqd?ref=badge_shield)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -120,3 +121,7 @@ Stargazers over time
 ===========
 
 [![Stargazers over time](https://starchart.cc/qd-today/qd.svg)](https://starchart.cc/qd-today/qd)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fa76yyyy%2Fqd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fa76yyyy%2Fqd?ref=badge_large)
